@@ -1,5 +1,5 @@
-### Hello! 👋
-# I'm Jakub Ochnik. I hope you'll enjoy your stay on my profile!
+## Hello! 👋
+### I'm Jakub Ochnik. I hope you'll enjoy your stay on my profile!
 
 🎓 I'm currently learning:
 
