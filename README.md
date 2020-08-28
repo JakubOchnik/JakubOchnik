@@ -1,12 +1,12 @@
 ### Hello! 👋
-#I'm Jakub Ochnik.
+# I'm Jakub Ochnik. I hope you'll enjoy your stay on my profile!
 
 🎓 I'm currently learning:
 
 - ⌚ GPU parallel computing
 - 🎞 Digital mage processing
 - 🧬 Machine learning
-- 🖩 Algorithms
+- 💻 Algorithms
 
 📫 How to reach me:
 
