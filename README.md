@@ -4,9 +4,14 @@
 🎓 I'm currently learning:
 
 - ⌚ GPU parallel computing
-- 🎞 Digital mage processing
+- 🎞 Digital image processing
 - 🧬 Machine learning
 - 💻 Algorithms
+
+💗 My favorite programming languages:
+
+- C/C++
+- Python
 
 📫 How to reach me:
 
