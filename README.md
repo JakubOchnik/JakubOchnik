@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hello! 👋
+#I'm Jakub Ochnik.
+
+🎓 I'm currently learning:
+
+- ⌚ GPU parallel computing
+- 🎞 Digital mage processing
+- 🧬 Machine learning
+- 🖩 Algorithms
+
+📫 How to reach me:
+
+- [Homepage](https://ochnik.me)
+- [LinkedIn](https://linkedin.com/in/jakubochnik) 
 
 <!--
 **JakubOchnik/JakubOchnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
