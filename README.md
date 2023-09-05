@@ -1,19 +1,16 @@
 ## Hello! 👋
-### I'm Jakub Ochnik. I hope you'll enjoy your stay on my profile!
+### I'm Jakub. I hope you'll enjoy your stay on my profile!
 
-🎓 I'm currently learning:
-
+🎓 Interested in:
+- 💾 Systems programming
 - ⌚ GPU parallel computing
 - 🎞 Digital image processing
 - 🧬 Machine learning
 - 💻 Algorithms
 
-💗 My favorite programming languages:
-
-- C/C++
-- Python
+💗 Favorite programming languages:
+- C++
+- Rust
 
 📫 How to reach me:
-
-- [Homepage](https://ochnik.me)
-- [LinkedIn](https://linkedin.com/in/jakubochnik) 
+- [LinkedIn](https://linkedin.com/in/jakubochnik)
